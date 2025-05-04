@@ -15,6 +15,16 @@ UrbanCare is a full-stack web application designed to simplify the process of bo
 
 ---
 
+## 🌐 Webpage Preview
+
+<p align="center">
+  <img src="https://github.com/Rushindhra/UrbanCare/blob/main/image_2025-05-04_225440906.png?raw=true" alt="UrbanCare Webpage Preview" width="800"/>
+</p>
+
+<p align="center"><em>Figure: Live preview of the UrbanCare web application homepage</em></p>
+
+---
+
 ## 🚀 Tech Stack
 
 ### 💻 Frontend

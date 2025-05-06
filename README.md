@@ -86,7 +86,7 @@ UrbanCare/
 │   ├── package.json
 │   ├── package-lock.json
 │   └── tailwind.config.js
-├── server/                          # Backend (Node.js + Express)
+├── server/                          #entery point of backend server
 │   ├── config/                      # Configuration files
 │   │   ├── db.js                    # MongoDB connection
 │   │   └── envVars.js               # Environment variables
